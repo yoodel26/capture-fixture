@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="120" viewBox="0 0 240 120" role="img" aria-label="Science fair beaker illustration">
+  <rect width="240" height="120" fill="#eaf2fb"/>
+  <path d="M105 15 h30 v30 l28 55 a6 6 0 0 1 -5 9 h-76 a6 6 0 0 1 -5 -9 l28 -55 z" fill="#ffffff" stroke="#3b5b85" stroke-width="3"/>
+  <path d="M88 78 h64 l9 18 a4 4 0 0 1 -4 6 h-74 a4 4 0 0 1 -4 -6 z" fill="#5cb87a"/>
+  <circle cx="112" cy="70" r="4" fill="#5cb87a"/>
+  <circle cx="128" cy="60" r="3" fill="#5cb87a"/>
+  <text x="200" y="112" font-family="sans-serif" font-size="9" fill="#3b5b85" text-anchor="middle">TEST FIXTURE</text>
+</svg>
