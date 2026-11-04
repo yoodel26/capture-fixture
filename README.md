@@ -4,7 +4,7 @@
 
 Covered Yoodel Capture tickets: #212, #217, #222, #223, #224, #230, #231.
 
-- Live site: https://yoodel-inc.github.io/capture-fixture/
+- Live site: https://yoodel26.github.io/capture-fixture/
 - Served by GitHub Pages from the root of `main`. The site is plain HTML/CSS with no build step and no JavaScript. `.nojekyll` makes Pages serve the files exactly as committed.
 - Every page has `<meta name="robots" content="noindex">` and a visible "Test fixture for Yoodel Capture" banner.
 - The site is a GitHub Pages project site served under `/capture-fixture/`, so every link and asset path is relative (none start with `/`).
