@@ -39,6 +39,8 @@ Note: `robots.txt` is served at `/capture-fixture/robots.txt`. The host root (`h
 
 ## Planned mutations (v2)
 
+**Version 2 applied 4 Nov 2026:** added news/new-library.html (linked from news.html), edited about.html, deleted contact.html, repaired images/missing-photo.jpg and images/shared-banner.png. The styles/site.css change is held for a separate version 3.
+
 These changes are documented here but **not applied yet**. A later commit will make them, so that Capture can be tested on detecting changes between crawls:
 
 1. **Add** `news/new-library.html`, a new news article.
