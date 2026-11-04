@@ -12,7 +12,7 @@
 html { background-color: #f7f2e4; }
 
 body {
-  background: url(../images/paper.png);
+  background: url(../images/paper-v2.png);
   margin: 0;
   font-family: Georgia, 'Times New Roman', serif;
   color: #2b2b2b;
@@ -31,14 +31,13 @@ body {
 .icon { font-family: 'FixtureIcons'; font-style: normal; }
 .icon-star::before { content: "\e900"; }
 
-/* Decorative loading spinner. The image is intentionally missing (404). */
+/* Decorative loading spinner. Its missing image was removed in fixture version 3. */
 .loading-indicator {
   display: inline-block;
   width: 16px;
   height: 16px;
   margin-right: 6px;
   vertical-align: middle;
-  background: url(fancybox/fancybox_loading.gif) no-repeat center;
 }
 
 .site-header { background: #2f5d3a; color: #ffffff; padding: 12px 16px; }
