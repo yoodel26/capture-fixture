@@ -45,6 +45,8 @@ Note: `robots.txt` is served at `/capture-fixture/robots.txt`. The host root (`h
 
 **Version 5 applied 4 Nov 2026:** images/shared-banner.png removed again (for the repaired-file visual refresh test, PR #289).
 
+**Version 6 applied 4 Nov 2026:** images/shared-banner.png restored with the version 4 bytes (the repair half of the PR #289 test: recovering the file should refresh shared-problem-a/b/c automatically).
+
 These changes are documented here but **not applied yet**. A later commit will make them, so that Capture can be tested on detecting changes between crawls:
 
 1. **Add** `news/new-library.html`, a new news article.
