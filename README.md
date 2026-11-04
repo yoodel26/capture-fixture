@@ -41,6 +41,8 @@ Note: `robots.txt` is served at `/capture-fixture/robots.txt`. The host root (`h
 
 **Version 2 applied 4 Nov 2026:** added news/new-library.html (linked from news.html), edited about.html, deleted contact.html, repaired images/missing-photo.jpg and images/shared-banner.png. **Version 3 applied 4 Nov 2026:** styles/site.css now uses images/paper-v2.png and no longer references the missing FancyBox image (a shared stylesheet change for every page).
 
+**Version 4 applied 4 Nov 2026:** only images/shared-banner.png changed (used by shared-problem-a/b/c.html).
+
 These changes are documented here but **not applied yet**. A later commit will make them, so that Capture can be tested on detecting changes between crawls:
 
 1. **Add** `news/new-library.html`, a new news article.
